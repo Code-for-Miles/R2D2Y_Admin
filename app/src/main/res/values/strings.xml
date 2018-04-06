@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">R2D2Y_Admin</string>
+    <string name="list_view">list_view</string>
+    <string name="request_list">List of Requests</string>
+</resources>
